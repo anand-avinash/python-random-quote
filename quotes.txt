@@ -1,3 +1,4 @@
+Do you need some time on your own
 Responsive is better than fast
 It’s not fully shipped until it’s fast
 Anything added dilutes everything else
@@ -12,3 +13,4 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Everybody needs some time, on their own
